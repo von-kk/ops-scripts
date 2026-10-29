@@ -1,0 +1,9 @@
+# macOS 自动生成的目录索引文件，不该进仓库
+.DS_Store
+
+# Python 运行时缓存，不该进仓库
+__pycache__/
+*.pyc
+
+# 编辑器临时文件
+*.swp
